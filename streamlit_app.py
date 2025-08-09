@@ -1,4 +1,5 @@
 import streamlit as st
+from joblib import load
 
 st.title("🎈 My new app")
 st.write(
